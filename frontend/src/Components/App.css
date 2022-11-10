@@ -1,0 +1,46 @@
+h1 {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #080808;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+.sub_heading h1 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    color: #202020;
+    text-transform: uppercase;
+    word-spacing: 1px;
+    letter-spacing: 2px;
+}
+
+
+
+.nav_heading {
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: auto;
+    white-space: nowrap;
+}
+
+
+
+.main_title p {
+    font-size :x-large;
+    font-weight: 1000;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: auto;
+    white-space: nowrap;
+    color: rgb(133, 9, 9);
+}
